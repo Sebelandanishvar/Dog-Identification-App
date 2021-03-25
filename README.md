@@ -30,8 +30,7 @@ In this project, we will learn how to build a convolution neural network (CNN) t
 
 ## Summary of results
 The results of the analysis are located inside the **dog_app.ipynb** file.
-You can also see the summary in <a href="https://sebelan-danishvar.medium.com/a-statistical-analysis-of-airbnb-listings-in-seattle-looking-to-dig-deeper-into-data-bf9e7777b4cf
-">Medium </a>. 
+You can also see the summary in <a href="https://sebelan-danishvar.medium.com/dog-identification-app-using-convolutional-neural-network-cnn-from-scratch-and-transfer-deab2bbf8e72">Medium </a>. 
 
 ## Licensing, Authors, Acknowledgements
 All data set and libarues are free to download. 
