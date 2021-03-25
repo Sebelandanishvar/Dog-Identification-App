@@ -7,12 +7,12 @@ In this project, we will learn how to build a convolution neural network (CNN) t
 ## Project Instructions
 1- Clone the repository and navigate to the downloaded folder.
 
-2- Download the dog dataset. Unzip the folder and place it path/to/dog-project/dogImages.
+2- Download the <a href="https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip" rel="nofollow">dog dataset</a>. Unzip the folder and place it path/to/dog-project/dogImages.
 
-3- Download the human dataset. Unzip the folder and place it path/to/dog-project/lfw. 
+3- Download the <a href="https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip" rel="nofollow">human dataset</a>. Unzip the folder and place it path/to/dog-project/lfw. 
 
 
-4- Donwload the VGG-16 and VGG-19 bottleneck features for the dog dataset and place it in path/to/dog-project/bottleneck_features.
+4- Donwload the <a href="https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG16Data.npz" rel="nofollow">VGG-16 </a>  and VGG-19 bottleneck features for the dog dataset and place it in path/to/dog-project/bottleneck_features.
  
 5- Install the follwoing libraries:
   This project requires Python 3.6 or newer and the following Python libraries installed (Alphabetical order):
