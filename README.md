@@ -29,7 +29,7 @@ In this project, we will learn how to build a convolution neural network (CNN) t
   - tqdm
 
 ## Summary of results
-The results of the analysis are located inside the seattle_airbnb_listings_SD.ipynb file.
+The results of the analysis are located inside the **dog_app.ipynb** file.
 You can also see the summary in <a href="https://sebelan-danishvar.medium.com/a-statistical-analysis-of-airbnb-listings-in-seattle-looking-to-dig-deeper-into-data-bf9e7777b4cf
 ">Medium </a>. 
 
